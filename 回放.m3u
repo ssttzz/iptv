@@ -1,0 +1,25 @@
+#EXTM3U x-tvg-url="http://51zmt.top"
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视" catchup="append" catchup-source="?playseek=${startYMDHMS}" catchup-days="7",CCTV-1高清
+http://192.168.0.2:1982/udp/239.94.0.31:5140
+
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视" catchup="append" catchup-source="?playseek=${startYMDHMS}" catchup-days="7",CCTV-2高清
+http://192.168.0.2:1982/udp/239.94.0.2:5140
+
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视" catchup="append" catchup-source="?playseek=${startYMDHMS}" catchup-days="7",CCTV-3高清
+http://192.168.0.2:1982/udp/239.94.0.32:5140
+
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV4" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-4_180817.png" group-title="央视" catchup="append" catchup-source="?playseek=${startYMDHMS}" catchup-days="7",CCTV-4高清
+http://192.168.0.2:1982/udp/239.94.0.4:5140
+
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视" catchup="append" catchup-source="?playseek=${startYMDHMS}" catchup-days="7",CCTV-5高清
+http://192.168.0.2:1982/udp/239.94.0.33:5140
+
+#EXTINF:-1 tvg-id="35" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视" catchup="append" catchup-source="?playseek=${startYMDHMS}" catchup-days="7",湖南卫视4K
+http://192.168.0.2:1982/udp/239.94.0.116:5140
+
+#EXTINF:-1 tvg-id="37" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视" catchup="append" catchup-source="?playseek=${startYMDHMS}" catchup-days="7",江苏卫视4K
+http://192.168.0.2:1982/udp/239.94.0.117:5140
+
+#EXTINF:-1 tvg-id="1860" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方" catchup="append" catchup-source="?playseek=${startYMDHMS}" catchup-days="7",四川卫视高清
+http://192.168.0.2:1982/udp/239.94.0.59:5140
