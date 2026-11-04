@@ -1,0 +1,9 @@
+#EXTM3U x-tvg-url="http://51zmt.top"
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视" catchup="append" catchup-days="7" catchup-source="?beginTime={utc:yyyyMMddHHmmss}&endTime={utcend:yyyyMMddHHmmss}" ,CCTV-1高清
+http://192.168.0.2:1982/udp/239.94.0.31:5140
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视" catchup="append" catchup-days="7" catchup-source="?beginTime={utc:yyyyMMddHHmmss}&endTime={utcend:yyyyMMddHHmmss}" ,CCTV-2高清
+http://192.168.0.2:1982/udp/239.94.0.2:5140
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视" catchup="append" catchup-days="7" catchup-source="?beginTime={utc:yyyyMMddHHmmss}&endTime={utcend:yyyyMMddHHmmss}" ,CCTV-3高清
+http://192.168.0.2:1982/udp/239.94.0.32:5140
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV4" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-4_180817.png" group-title="央视" catchup="append" catchup-days="7" catchup-source="?beginTime={utc:yyyyMMddHHmmss}&endTime={utcend:yyyyMMddHHmmss}" ,CCTV-4高清
+http://192.168.0.2:1982/udp/239.94.0.4:5140
